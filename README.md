@@ -1,4 +1,5 @@
 # React + Vite Project for AccuKnox
+Link: https://accuknoxdashboard123.netlify.app/
 
 1. A JSON in widgetdata.js is created to build this dashboard/widget dynamically.
 2. Users can dynamically add and remove a widget from a section/ category.
